@@ -1,0 +1,71 @@
+[33mcommit 92ac39839de0cb9751bbe393776133eb06acf464[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Tue Mar 4 17:03:32 2025 -0300
+
+    Endpoint /pedidos/{id} disponibilizado
+
+[33mcommit 69909e7524835d3533d14dfb96a38dddb0f76a89[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Tue Mar 4 16:37:48 2025 -0300
+
+    ItemPedido e ItemPedidoPK
+
+[33mcommit 9ec741e0e371a7cf209b1a3b89557f86f4f5de02[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Tue Mar 4 12:19:13 2025 -0300
+
+    Pedido, EstadoPagamento e Pagamento
+
+[33mcommit e96cbcfe86fe1f5519eadc7eb96be57320534938[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Mon Mar 3 20:19:18 2025 -0300
+
+    Endpoint /clientes/{id} disponibilizado
+
+[33mcommit 69e2f6093a0a4dfb57a7b93aa36e24ead59fcb59[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Mon Mar 3 20:00:57 2025 -0300
+
+    Criando cliente, TipoCliente, telefones e enderecos
+
+[33mcommit 8e7eae45c6537415c6d1756006998f0f93528666[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Mon Mar 3 11:41:50 2025 -0300
+
+    Criando Estado e Cidade
+
+[33mcommit 6110929d851512c6e87d52c5760013c13ffc0e3a[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Mon Mar 3 11:10:19 2025 -0300
+
+    Ajuste no endpoint /categorias/{id}
+
+[33mcommit c08f2c6a9da6caf7dff36185e8d163d6dafd4d2b[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Sun Mar 2 11:37:46 2025 -0300
+
+    Produto e associacao many to many
+
+[33mcommit 30c84f679a97d6981d65dd92128ed942d7807987[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Sun Mar 2 11:12:15 2025 -0300
+
+    Criando operacao de instanciacao
+
+[33mcommit 07d791067d3942107bcbcf926c5bd9d3072e065c[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Sun Mar 2 01:27:04 2025 -0300
+
+    Criando repository e service para Categoria
+
+[33mcommit 1ec7a7acb7d793b82c648de13503dc5c83958572[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Sun Mar 2 00:42:42 2025 -0300
+
+    Banco de dados H2 funcionando, jakart importado e criação automática da base de dados
+
+[33mcommit 162f84c9a66af5e42d5f0b2396aa48f3ba1235d7[m
+Author: Robledo Castro <bedocastro@gmail.com>
+Date:   Fri Feb 28 19:58:39 2025 -0300
+
+    Projeto cursomc1 criado
